@@ -1,0 +1,6 @@
+{
+  "name": "JAN Mobile Zone",
+  "description": "Bookkeeping, Cash In/Out, Easyload, Easypaisa, and Invoice software for JAN Mobile Zone, Kanju Swat",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
